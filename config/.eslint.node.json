@@ -43,6 +43,7 @@
     "no-template-curly-in-string": "error",
     "no-undef": "warn",
     "no-undefined": "error",
+    "no-unused-vars": "warn",
     "no-var": "error",
     "prefer-rest-params": "error",
     "prefer-template": "warn",
@@ -52,7 +53,7 @@
     "spaced-comment": ["warn", "always"],
     "strict": ["error", "global"],
     "template-curly-spacing": ["warn", "always"],
-    "vars-on-top": "error",
+    "vars-on-top": "warn",
     "yoda": "error"
   }
 }
