@@ -1,3 +1,5 @@
+'use strict';
+
 const app = require('../app');
 const assert = require('assert/strict');
 const request = require('supertest');
