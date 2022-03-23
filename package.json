@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "lint:node": "npx eslint -c config/.eslint.node.json app.js bin/www routes"
+    "lint:node": "npx eslint -c config/.eslint.node.json app.js bin/www routes test"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
